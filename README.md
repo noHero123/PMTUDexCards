@@ -16,4 +16,4 @@ you need:
  - Poké Balls.pdf
  - Base Items.pdf *
 
-* replace the cards of the orginal cards with the QR-cards.
+* replace the cards of the orginal pdfs with the QR-cards.
